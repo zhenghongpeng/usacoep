@@ -1,34 +1,30 @@
 fin = open('measurement.in', 'r')
 fout = open('measurement.out', 'w')
 N = int(fin.readline().strip())
+
+
+def keywithmaxval(d):
+    v = list(d.values())
+    k = list(d.keys())
+    value = max(v)
+    return [k[index] for index, val in enumerate(v) if val == value]
+
+
 log = []
-Mildred, Elsie, Bessie = 7, 7, 7
 for X in range(N):
     lineX = fin.readline().split()
-    log.append(lineX)
-best = [Mildred, Elsie, Bessie]
-counter = 0
-for x in range(1,101):
-    oldbest = best
-    oldMildred = Mildred
-    oldBessie = Bessie
-    oldElsie = Elsie
-    for i in range(N):
-        if str(x) in log[i][0]:
-            if log[i][1] == 'Mildred':
-                Mildred += int(log[i][2])
-            if log[i][1] == 'Elsie':
-                Elsie += int(log[i][2])
-            if log[i][1] == 'Bessie':
-                Bessie += int(log[i][2])
-
-    if max(Mildred, Elsie, Bessie) != max(oldbest):
-        counter += 1
-    if max(best) == max(oldbest):
-        if (max(best) == Mildred) == (max(oldbest) == oldMildred):
-            if (max(best) == Bessie) == (max(oldbest) == oldBessie):
-                if (max(best) == Elsie) == (max(oldbest) == oldElsie):
-
-        print(x, Elsie, Bessie, Mildred, counter)
-print(counter)
-
+    log.append([int(lineX[0]), lineX[1], int(lineX[2])])
+log = sorted(log)
+production = {'Mildred': 7,
+              'Bessie': 7,
+              'Elsie': 7}
+prev =[]
+cnt =0
+for r in log:
+    oldPro = production
+    production[r[1]] += r[2]
+    winner = keywithmaxval(production)
+    if winner != prev:
+        cnt +=1
+        prev = winner
+fout.write(str(cnt)+'\n')

@@ -1,0 +1,12 @@
+fin = open('promote.in', 'r')
+fout = open('promote.out', 'w')
+bb, ba = map(int, fin.readline().split())
+sb, sa = map(int, fin.readline().split())
+gb, ga = map(int, fin.readline().split())
+pb, pa = map(int, fin.readline().split())
+gp = pa-pb
+sg = max(0, ga-gb+gp)
+bs = max(0, sa-sb+sg)
+fout.write(str(bs)+'\n')
+fout.write(str(sg)+'\n')
+fout.write(str(gp)+'\n')

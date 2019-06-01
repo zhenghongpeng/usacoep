@@ -3,28 +3,23 @@ fout = open('shuffle.out', 'w')
 N = int(fin.readline().split()[0])
 shuffle = fin.readline().split()
 IDs = fin.readline().split()
+order = []
+for x in range(1, N+1):
+    order.append(x)
 
 
-def reverseshuffle(IDlist):
-    moveTo = [0]*(N+1)
-    for x in range(1, N+1):
-        destination = int(IDlist[i-1])
-        moveTo[destination] = i
-    return moveTo
+def reverse(sf, order):
+    new = ['']*N
+    for x in range(N):
+        new[x] = shuffle[int(order[x])-1]
+    return new
 
 
-
-
-
-
-sub = []
-for i in range(N):
-    sub.append(i+1)
-a = reverseshuffle(shuffle)
-b = reverseshuffle(a)
-c = reverseshuffle(b)
-result = []
-for item in c:
-    result.append(IDs[int(item)-1])
-for item in result:
-    fout.write(item + '\n')
+for i in range(3):
+    order = reverse(shuffle, order)
+print(order)
+order2=['']*N
+for x in range(len(order)):
+    order2[x] = IDs[int(order[x])-1]
+for x in order2:
+    fout.write(x + '\n')
