@@ -2,12 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64f6638c-3f36-40fc-bf19-9938716b9a28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/usacoep.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/measurement/measurement.out" beforeDir="false" afterPath="$PROJECT_DIR$/measurement/measurement.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/measurement/measurement.py" beforeDir="false" afterPath="$PROJECT_DIR$/measurement/measurement.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shuffle/shuffle.out" beforeDir="false" afterPath="$PROJECT_DIR$/shuffle/shuffle.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shuffle/shuffle.py" beforeDir="false" afterPath="$PROJECT_DIR$/shuffle/shuffle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tttt/1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tttt/1.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tttt/10.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tttt/10.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tttt/2.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tttt/2.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tttt/3.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tttt/3.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tttt/4.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tttt/4.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tttt/5.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tttt/5.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tttt/6.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tttt/6.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tttt/7.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tttt/7.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tttt/8.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tttt/8.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tttt/9.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tttt/9.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/revegetate/revegetate.out" beforeDir="false" afterPath="$PROJECT_DIR$/revegetate/revegetate.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tttt/tttt.out" beforeDir="false" afterPath="$PROJECT_DIR$/tttt/tttt.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tttt/tttt.py" beforeDir="false" afterPath="$PROJECT_DIR$/tttt/tttt.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +36,10 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/usacoep$ride.coverage" NAME="milk2 Coverage Results" MODIFIED="1556158886090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/milk2" />
     <SUITE FILE_PATH="coverage/usacoep$milk2.coverage" NAME="backforth Coverage Results" MODIFIED="1558313352391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backforth" />
-    <SUITE FILE_PATH="coverage/usacoep$shuffle.coverage" NAME="cowroute2 Coverage Results" MODIFIED="1559424755062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cowroute2" />
+    <SUITE FILE_PATH="coverage/usacoep$badmilk.coverage" NAME="dogewogiew Coverage Results" MODIFIED="1560857177954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/angry" />
+    <SUITE FILE_PATH="coverage/usacoep$shuffle.coverage" NAME="badmilk Coverage Results" MODIFIED="1559491872053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/badmilk" />
     <SUITE FILE_PATH="coverage/usacoep$backforth.coverage" NAME="measurement Coverage Results" MODIFIED="1558887837779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/measurement" />
+    <SUITE FILE_PATH="coverage/usacoep$dogewogiew.coverage" NAME="tttt Coverage Results" MODIFIED="1561522642558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tttt" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -35,79 +55,70 @@
     <expand />
     <select />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="usacoep" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pails/pails.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cbarn/cbarn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cowroute/cowroute.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="12" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cowroute2/cowroute2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-191">
-              <caret column="20" selection-start-column="20" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/cowroute2_bronze 2/5.out">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Downloads/cowroute2_bronze 2/5.in">
+        <entry file="file://$PROJECT_DIR$/tttt/tttt.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2742">
-              <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+            <state relative-caret-position="412">
+              <caret line="62" column="60" selection-start-line="62" selection-start-column="60" selection-end-line="62" selection-end-column="60" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cowroute2/cowroute2.out">
+        <entry file="file://$PROJECT_DIR$/tttt/10.out">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cowroute2/cowroute2.in">
+        <entry file="file://$PROJECT_DIR$/tttt/9.out">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tttt/7.out">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tttt/tttt.out">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tttt/10.in">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tttt/9.in">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="3" selection-start-column="3" selection-end-column="3" />
+              <caret selection-end-line="2" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cowroute/cowroute.out">
+        <entry file="file://$PROJECT_DIR$/tttt/8.out">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cowroute/cowroute.in">
+        <entry file="file://$PROJECT_DIR$/tttt/8.in">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tttt/7.in">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -128,6 +139,13 @@
       <find>curr_time</find>
       <find>move_steps</find>
       <find>pails</find>
+      <find>41</find>
+      <find>ok</find>
+      <find>fine</find>
+      <find>r1</find>
+      <find>r2</find>
+      <find>r3</find>
+      <find>count1 += 1</find>
     </findStrings>
     <replaceStrings>
       <replace>append</replace>
@@ -140,41 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/skidesign/skidesign.py" />
-        <option value="$PROJECT_DIR$/mixmilk/mixmilk.in" />
-        <option value="$PROJECT_DIR$/mixmilk/mixmilk.py" />
-        <option value="$PROJECT_DIR$/blist.py" />
-        <option value="$PROJECT_DIR$/blist/blist.in" />
-        <option value="$PROJECT_DIR$/blist/blist.py" />
-        <option value="$PROJECT_DIR$/backforth/backforth_failed.py" />
-        <option value="$PROJECT_DIR$/backforth/backforth.in" />
-        <option value="$PROJECT_DIR$/backforth/backforth.py" />
-        <option value="$PROJECT_DIR$/shell/shell.in" />
-        <option value="$PROJECT_DIR$/shell/shell.py" />
-        <option value="$PROJECT_DIR$/sleepy/sleepy.in" />
-        <option value="$PROJECT_DIR$/guess/guess.in" />
-        <option value="$PROJECT_DIR$/guess/guess.py" />
-        <option value="$PROJECT_DIR$/billboard/billboard.in" />
-        <option value="$PROJECT_DIR$/billboard/billboard.py" />
-        <option value="$PROJECT_DIR$/shuffle/shuffle.in" />
-        <option value="$PROJECT_DIR$/measurement/measurement.in" />
-        <option value="$PROJECT_DIR$/shuffle/shuffle.py" />
-        <option value="$PROJECT_DIR$/measurement/measurement.py" />
-        <option value="$PROJECT_DIR$/teleport/teleport.in" />
-        <option value="$PROJECT_DIR$/teleport/teleport.py" />
-        <option value="$PROJECT_DIR$/hoofball/hoofball.in" />
-        <option value="$PROJECT_DIR$/hoofball/hoofball.py" />
-        <option value="$PROJECT_DIR$/taming/taming.py" />
-        <option value="$PROJECT_DIR$/taming/taming.in" />
-        <option value="$PROJECT_DIR$/sleepy/sleepy.py" />
-        <option value="$PROJECT_DIR$/paint/paint.py" />
-        <option value="$PROJECT_DIR$/test/test.py" />
-        <option value="$PROJECT_DIR$/speeding/speeding.in" />
-        <option value="$PROJECT_DIR$/speeding/speeding.py" />
-        <option value="$PROJECT_DIR$/badmilk/badmilk.in" />
-        <option value="$PROJECT_DIR$/badmilk/badmilk.py" />
-        <option value="$PROJECT_DIR$/promote/promote.in" />
-        <option value="$PROJECT_DIR$/promote/promote.py" />
         <option value="$PROJECT_DIR$/angry/angry.in" />
         <option value="$PROJECT_DIR$/angry/angry.py" />
         <option value="$PROJECT_DIR$/mowing/mowing.in" />
@@ -191,13 +174,47 @@
         <option value="$PROJECT_DIR$/cowroute/cowroute.py" />
         <option value="$PROJECT_DIR$/cowroute2/cowroute2.in" />
         <option value="$PROJECT_DIR$/cowroute2/cowroute2.py" />
+        <option value="$PROJECT_DIR$/censor/censor.in.py" />
+        <option value="$PROJECT_DIR$/censor/censor.in" />
+        <option value="$PROJECT_DIR$/censor/censor.out" />
+        <option value="$USER_HOME$/Downloads/censor_bronze 2/7.out" />
+        <option value="$PROJECT_DIR$/censor/censor.py" />
+        <option value="$PROJECT_DIR$/cow/cow.py" />
+        <option value="$PROJECT_DIR$/badmilk/badmilk.in" />
+        <option value="$PROJECT_DIR$/badmilk/badmilk.py" />
+        <option value="$PROJECT_DIR$/crossroad/crossroad.in" />
+        <option value="$PROJECT_DIR$/circlecross/circlecross.in" />
+        <option value="$PROJECT_DIR$/cowqueue/cowqueue.in" />
+        <option value="$PROJECT_DIR$/cowqueue/cowqueue.py" />
+        <option value="$PROJECT_DIR$/circlecross/circlecross.py" />
+        <option value="$PROJECT_DIR$/crossroad/crossroad.py" />
+        <option value="$PROJECT_DIR$/milkorder/milkorder.in" />
+        <option value="$PROJECT_DIR$/milkorder/milkorder.py" />
+        <option value="$PROJECT_DIR$/lifegaurds/lifegaurds.in" />
+        <option value="$PROJECT_DIR$/lifegaurds/lifeguards.in" />
+        <option value="$PROJECT_DIR$/lifegaurds/lifegaurds.py" />
+        <option value="$PROJECT_DIR$/angry/dogewogiew.py" />
+        <option value="$PROJECT_DIR$/buckets/buckets.in" />
+        <option value="$PROJECT_DIR$/buckets/buckets.py" />
+        <option value="$USER_HOME$/Downloads/factory_bronze_open19/4.in" />
+        <option value="$PROJECT_DIR$/factory/factory.in.py" />
+        <option value="$PROJECT_DIR$/factory/factory.in" />
+        <option value="$PROJECT_DIR$/factory/factory.py" />
+        <option value="$PROJECT_DIR$/evolution/evolution.in" />
+        <option value="$PROJECT_DIR$/evolution/evolution.py" />
+        <option value="$PROJECT_DIR$/revegetate/revegetate.in" />
+        <option value="$PROJECT_DIR$/revegetate/revegetate.py" />
+        <option value="$PROJECT_DIR$/traffic/traffic.py" />
+        <option value="$PROJECT_DIR$/traffic/traffic.in" />
+        <option value="$PROJECT_DIR$/tttt/tttt.out" />
+        <option value="$PROJECT_DIR$/tttt/tttt.in" />
+        <option value="$PROJECT_DIR$/tttt/tttt.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="736" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -215,7 +232,12 @@
             <path>
               <item name="usacoep" type="b2602c69:ProjectViewProjectNode" />
               <item name="usacoep" type="462c0819:PsiDirectoryNode" />
-              <item name="cowroute" type="462c0819:PsiDirectoryNode" />
+              <item name="traffic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="usacoep" type="b2602c69:ProjectViewProjectNode" />
+              <item name="usacoep" type="462c0819:PsiDirectoryNode" />
+              <item name="tttt" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -232,6 +254,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tttt" />
       <recent name="$PROJECT_DIR$/backforth" />
     </key>
   </component>
@@ -248,7 +271,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="cowroute2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="tttt" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="usacoep" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -256,12 +279,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cowroute2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tttt" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cowroute2/cowroute2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tttt/tttt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,33 +307,36 @@
       <workItem from="1555772600474" duration="18689000" />
       <workItem from="1556159306498" duration="56064000" />
       <workItem from="1558426836241" duration="15003000" />
-      <workItem from="1558894410379" duration="37733000" />
+      <workItem from="1558894410379" duration="44464000" />
+      <workItem from="1559492391738" duration="27060000" />
+      <workItem from="1561298126220" duration="25811000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127489000" />
+    <option name="totallyTimeSpent" value="187091000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15647627" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49929875" visible="true" weight="0.12630732" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.50070125" side_tool="true" weight="0.15848753" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49921876" visible="true" weight="0.25262055" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39937106" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49921876" visible="true" weight="0.25157234" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5356394" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32914045" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50078124" side_tool="true" weight="0.30520394" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.78697574" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.27299702" />
       <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Coverage" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -344,289 +370,274 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/revegetate/revegetate.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/revegetate/revegetate.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/revegetate/revegetate.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Downloads/hoofball_bronze_feb18/2.out">
+    <entry file="file://$USER_HOME$/Downloads/factory_bronze_open19/3.in">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/hoofball_bronze_feb18/3.out">
+    <entry file="file://$USER_HOME$/Downloads/factory_bronze_open19/4.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/hoofball_bronze_feb18/3.in">
+    <entry file="file://$PROJECT_DIR$/factory/factory.in.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/factory_bronze_open19/4.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/factory_bronze_open19 (1) 2/9.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/factory_bronze_open19 (1) 2/10.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/factory.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-217">
+          <caret line="13" column="2" selection-start-line="13" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/factory.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/factory_bronze_open19 (1) 2/9.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1656">
+          <caret line="69" column="5" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dualpal/dualpal.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/evolution/evolution.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/evolution/evolution.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/factory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dualpal/dualpal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/revegetate/revegetate.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/evolution/evolution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/revegetate/revegetate.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7752">
+          <caret line="324" selection-start-line="324" selection-end-line="324" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/revegetate/revegetate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="35" selection-start-line="1" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/traffic_bronze_feb19/2.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/traffic_bronze_feb19/2.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/traffic_bronze_feb19/4.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/traffic_bronze_feb19/4.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/traffic/traffic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="54" column="64" selection-start-line="54" selection-start-column="64" selection-end-line="54" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/traffic/traffic.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/traffic/traffic.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/tttt_bronze_open18/2.out">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/hoofball_bronze_feb18/2.in">
+    <entry file="file://$PROJECT_DIR$/tttt/tttt.in">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="39" />
+        <state relative-caret-position="48">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hoofball/hoofball.out">
+    <entry file="file://$USER_HOME$/Downloads/tttt_bronze_open18/2.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tttt/1.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/hoofball/hoofball.in">
+    <entry file="file://$PROJECT_DIR$/tttt/1.in">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tttt/2.in">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tttt/2.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tttt/3.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tttt/3.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tttt/4.in">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tttt/4.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tttt/5.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="3" lean-forward="true" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tttt/5.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tttt/6.in">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tttt/6.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tttt/7.in">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tttt/7.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tttt/8.in">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tttt/8.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tttt/9.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tttt/9.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tttt/10.in">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tttt/10.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tttt/tttt.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hoofball/hoofball.py">
+    <entry file="file://$PROJECT_DIR$/tttt/tttt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taming/taming.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taming/taming.out">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taming/taming.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/paint/paint.in">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sleepy/sleepy.out">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/paint/paint.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sleepy/sleepy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="7" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/speeding/speeding.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/speeding/speeding.out">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/speeding/speeding.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/badmilk/badmilk.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/promote/promote.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/promote/promote.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="31" lean-forward="true" selection-end-line="1" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/badmilk/badmilk.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="45" lean-forward="true" selection-end-line="2" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angry/angry.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/promote/promote.out">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angry/angry.out">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angry/angry.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/myproject/usacobronze/1.out">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mowing/mowing.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mowing/mowing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="22" column="12" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mowing/mowing.out">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mowing/mowing2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pails/pail.in">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pails/pails.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pails/pails.out">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pails/pails.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cbarn/cbarn.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cbarn/cbarn.out">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notlast/notlast.in">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notlast/notlast.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marathon/marathon.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marathon/marathon.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cbarn/cbarn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cowroute/cowroute.in">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cowroute/cowroute.out">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cowroute/cowroute.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cowroute2/cowroute2.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cowroute2/cowroute2.out">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cowroute2/cowroute2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-191">
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/cowroute2_bronze 2/5.out">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/cowroute2_bronze 2/5.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2742">
-          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        <state relative-caret-position="412">
+          <caret line="62" column="60" selection-start-line="62" selection-start-column="60" selection-end-line="62" selection-end-column="60" />
         </state>
       </provider>
     </entry>
