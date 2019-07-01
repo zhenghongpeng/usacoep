@@ -6,13 +6,16 @@ echo "######################################"
 
 `cp $2 tmp`
 file="$(echo $1 | cut -d'.' -f1)"
+input = $2
 
 for i in $(seq 10)
 do
 
   `cp $i.in $2`
 
-  `python $file.py $2`
+  echo "running python $file.py $input"
+
+  python $file.py $input
 
   `cp $file.out out.$i`
 
