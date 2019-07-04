@@ -2,60 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64f6638c-3f36-40fc-bf19-9938716b9a28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/circlecross/1.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/1.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/10.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/10.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/2.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/2.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/3.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/3.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/4.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/4.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/5.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/5.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/6.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/6.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/7.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/7.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/8.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/8.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/9.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/9.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/1.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/1.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/10.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/10.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/2.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/2.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/3.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/3.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/4.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/4.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/5.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/5.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/6.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/6.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/7.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/7.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/8.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/8.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/9.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/9.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angry/1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angry/1.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angry/10.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angry/10.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angry/2.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angry/2.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angry/3.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angry/3.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angry/4.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angry/4.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angry/5.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angry/5.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angry/6.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angry/6.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angry/7.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angry/7.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angry/8.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angry/8.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angry/9.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angry/9.out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/usacoep.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/usacoep.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/billboard/billboard.out" beforeDir="false" afterPath="$PROJECT_DIR$/billboard/billboard.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/billboard2/billboard2.out" beforeDir="false" afterPath="$PROJECT_DIR$/billboard2/billboard2.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/billboard2/billboard2.py" beforeDir="false" afterPath="$PROJECT_DIR$/billboard2/billboard2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/circlecross/circlecross.py" beforeDir="false" afterPath="$PROJECT_DIR$/circlecross/circlecross.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cowqueue/cowqueue.out" beforeDir="false" afterPath="$PROJECT_DIR$/cowqueue/cowqueue.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoofball/hoofball.in" beforeDir="false" afterPath="$PROJECT_DIR$/hoofball/hoofball.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoofball/hoofball.out" beforeDir="false" afterPath="$PROJECT_DIR$/hoofball/hoofball.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifeguards/lifeguards.out" beforeDir="false" afterPath="$PROJECT_DIR$/lifeguards/lifeguards.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taming/taming.out" beforeDir="false" afterPath="$PROJECT_DIR$/taming/taming.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teleport/teleport.out" beforeDir="false" afterPath="$PROJECT_DIR$/teleport/teleport.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/traffic/cmp.sh" beforeDir="false" afterPath="$PROJECT_DIR$/traffic/cmp.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angry/angry.out" beforeDir="false" afterPath="$PROJECT_DIR$/angry/angry.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angry/angry.py" beforeDir="false" afterPath="$PROJECT_DIR$/angry/angry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notlast/notlast.in" beforeDir="false" afterPath="$PROJECT_DIR$/notlast/notlast.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notlast/notlast.py" beforeDir="false" afterPath="$PROJECT_DIR$/notlast/notlast.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,8 +38,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/usacoep$circlecross.coverage" NAME="circlecross Coverage Results" MODIFIED="1562244775885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notlast" />
     <SUITE FILE_PATH="coverage/usacoep$ride.coverage" NAME="milk2 Coverage Results" MODIFIED="1556158886090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/milk2" />
     <SUITE FILE_PATH="coverage/usacoep$milk2.coverage" NAME="backforth Coverage Results" MODIFIED="1558313352391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backforth" />
+    <SUITE FILE_PATH="coverage/usacoep$angry.coverage" NAME="angry Coverage Results" MODIFIED="1562244802129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/angry" />
     <SUITE FILE_PATH="coverage/usacoep$badmilk.coverage" NAME="dogewogiew Coverage Results" MODIFIED="1560857177954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/angry" />
     <SUITE FILE_PATH="coverage/usacoep$shuffle.coverage" NAME="badmilk Coverage Results" MODIFIED="1559491872053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/badmilk" />
     <SUITE FILE_PATH="coverage/usacoep$traffic.coverage" NAME="traffic Coverage Results" MODIFIED="1561910428519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/traffic" />
@@ -92,15 +68,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crossroad/crossroad.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cmp.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
@@ -110,32 +77,45 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/circlecross/circlecross.py">
+        <entry file="file://$PROJECT_DIR$/angry/angry.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            <state relative-caret-position="528">
+              <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cowqueue/cowqueue.py">
+        <entry file="file://$PROJECT_DIR$/angry/angry.out">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angry/1.in">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/notlast/notlast.py">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-426">
+              <caret line="103" column="4" selection-start-line="103" selection-start-column="4" selection-end-line="103" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notlast/notlast.out">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cowqueue/1.in">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cowqueue/cowqueue.out">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/notlast/notlast.in">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -193,10 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cbarn/cbarn.py" />
-        <option value="$PROJECT_DIR$/cowroute/cowroute.in" />
-        <option value="$PROJECT_DIR$/cowroute/cowroute.py" />
-        <option value="$PROJECT_DIR$/cowroute2/cowroute2.in" />
         <option value="$PROJECT_DIR$/cowroute2/cowroute2.py" />
         <option value="$PROJECT_DIR$/censor/censor.in.py" />
         <option value="$PROJECT_DIR$/censor/censor.in" />
@@ -244,14 +220,18 @@
         <option value="$PROJECT_DIR$/crossroad/crossroad.in" />
         <option value="$PROJECT_DIR$/cmp.sh" />
         <option value="$PROJECT_DIR$/circlecross/circlecross.py" />
+        <option value="$PROJECT_DIR$/notlast/notlast.in" />
+        <option value="$PROJECT_DIR$/notlast/notlast.py" />
+        <option value="$PROJECT_DIR$/angry/angry.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-3840" />
-    <option name="y" value="-32" />
-    <option name="width" value="3840" />
-    <option name="height" value="2160" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1685" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="1016" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -272,6 +252,11 @@
               <item name="usacoep" type="462c0819:PsiDirectoryNode" />
               <item name="notlast" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="usacoep" type="b2602c69:ProjectViewProjectNode" />
+              <item name="usacoep" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -287,12 +272,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/angry" />
       <recent name="$PROJECT_DIR$/cowqueue" />
       <recent name="$PROJECT_DIR$/circlecross" />
       <recent name="$PROJECT_DIR$/crossroad" />
       <recent name="$PROJECT_DIR$/billboard" />
-      <recent name="$PROJECT_DIR$/lifegaurds" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -307,7 +295,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.circlecross">
+  <component name="RunManager" selected="Python.angry">
+    <configuration name="angry" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="usacoep" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/angry" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/angry/angry.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="circlecross" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="usacoep" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -316,12 +326,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/circlecross" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notlast" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/circlecross/circlecross.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/notlast/notlast.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -378,9 +388,11 @@
       <item itemvalue="Python.hoofball" />
       <item itemvalue="Python.hoofball (1)" />
       <item itemvalue="Python.circlecross" />
+      <item itemvalue="Python.angry" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.angry" />
         <item itemvalue="Python.circlecross" />
         <item itemvalue="Python.hoofball (1)" />
       </list>
@@ -407,22 +419,25 @@
       <workItem from="1561770053431" duration="4219000" />
       <workItem from="1561912991405" duration="17000" />
       <workItem from="1561913017195" duration="9783000" />
+      <workItem from="1561958133154" duration="423000" />
+      <workItem from="1562075701716" duration="2762000" />
+      <workItem from="1562245492288" duration="187000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="204494000" />
+    <option name="totallyTimeSpent" value="207866000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3840" y="-32" width="3840" height="2160" extended-state="0" />
+    <frame x="1685" y="23" width="1280" height="1016" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49929875" visible="true" weight="0.16008425" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49929875" visible="true" weight="0.159375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50070125" side_tool="true" weight="0.15848753" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49921876" weight="0.25789472" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49921876" weight="0.19116022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5356394" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -431,7 +446,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32914045" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50078124" side_tool="true" weight="0.30520394" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3923445" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.39116022" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -495,18 +510,10 @@
     <SUITE FILE_PATH="coverage/usacoep$circlecross.coverage" NAME="circlecross Coverage Results" MODIFIED="1561956027632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/circlecross" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../usaco/gift1/gift1.in" />
-    <entry file="file://$PROJECT_DIR$/../usaco/gift1/gift1.py" />
-    <entry file="file://$PROJECT_DIR$/../usaco/photo_bronze/photobronze.py" />
-    <entry file="file://$PROJECT_DIR$/../usaco/beads/beads.py" />
-    <entry file="file://$PROJECT_DIR$/../usaco/photo_bronze/cmpbash" />
-    <entry file="file://$PROJECT_DIR$/test/cmpbash" />
     <entry file="file://$PROJECT_DIR$/traffic/file">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/traffic/tmp.in">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/traffic/tmp.in" />
     <entry file="file://$PROJECT_DIR$/test/cmp.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -671,22 +678,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cmp.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circlecross/circlecross.out">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circlecross/circlecross.in">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circlecross/1.in">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/circlecross/circlecross.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -694,17 +685,67 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cowqueue/cowqueue.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/cowqueue/1.in">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/cowqueue/cowqueue.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/cowqueue/cowqueue.py">
+    <entry file="file://$PROJECT_DIR$/notlast/notlast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmp.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angry/angry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angry/angry.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/notlast/notlast.py">
+    <entry file="file://$PROJECT_DIR$/angry/1.in">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notlast/notlast.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notlast/notlast.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/circlecross/1.in">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/circlecross/circlecross.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/circlecross/circlecross.in">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-426">
+          <caret line="103" column="4" selection-start-line="103" selection-start-column="4" selection-end-line="103" selection-end-column="4" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
