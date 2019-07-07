@@ -1,71 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64f6638c-3f36-40fc-bf19-9938716b9a28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/circlecross/1.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/1.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/10.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/10.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/2.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/2.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/3.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/3.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/4.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/4.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/5.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/5.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/6.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/6.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/7.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/7.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/8.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/8.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/9.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circlecross/9.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/1.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/1.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/10.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/10.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/2.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/2.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/3.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/3.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/4.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/4.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/5.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/5.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/6.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/6.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/7.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/7.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/8.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/8.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/9.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowqueue/9.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/usacoep.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/usacoep.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/billboard/billboard.out" beforeDir="false" afterPath="$PROJECT_DIR$/billboard/billboard.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/billboard2/billboard2.out" beforeDir="false" afterPath="$PROJECT_DIR$/billboard2/billboard2.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/billboard2/billboard2.py" beforeDir="false" afterPath="$PROJECT_DIR$/billboard2/billboard2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/circlecross/circlecross.py" beforeDir="false" afterPath="$PROJECT_DIR$/circlecross/circlecross.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cowqueue/cowqueue.out" beforeDir="false" afterPath="$PROJECT_DIR$/cowqueue/cowqueue.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoofball/hoofball.in" beforeDir="false" afterPath="$PROJECT_DIR$/hoofball/hoofball.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoofball/hoofball.out" beforeDir="false" afterPath="$PROJECT_DIR$/hoofball/hoofball.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifeguards/lifeguards.out" beforeDir="false" afterPath="$PROJECT_DIR$/lifeguards/lifeguards.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taming/taming.out" beforeDir="false" afterPath="$PROJECT_DIR$/taming/taming.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teleport/teleport.out" beforeDir="false" afterPath="$PROJECT_DIR$/teleport/teleport.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/traffic/cmp.sh" beforeDir="false" afterPath="$PROJECT_DIR$/traffic/cmp.sh" afterDir="false" />
-    </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="5193af6a-2d1f-468f-bb56-5cf476259ed2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/usacoep$circlecross.coverage" NAME="circlecross Coverage Results" MODIFIED="1562244775885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notlast" />
     <SUITE FILE_PATH="coverage/usacoep$ride.coverage" NAME="milk2 Coverage Results" MODIFIED="1556158886090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/milk2" />
     <SUITE FILE_PATH="coverage/usacoep$milk2.coverage" NAME="backforth Coverage Results" MODIFIED="1558313352391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backforth" />
+    <SUITE FILE_PATH="coverage/usacoep$angry.coverage" NAME="angry Coverage Results" MODIFIED="1562463589274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/reduce" />
+    <SUITE FILE_PATH="coverage/usacoep$bcs.coverage" NAME="cowsignal Coverage Results" MODIFIED="1562514934718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cowsignal" />
     <SUITE FILE_PATH="coverage/usacoep$badmilk.coverage" NAME="dogewogiew Coverage Results" MODIFIED="1560857177954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/angry" />
     <SUITE FILE_PATH="coverage/usacoep$shuffle.coverage" NAME="badmilk Coverage Results" MODIFIED="1559491872053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/badmilk" />
     <SUITE FILE_PATH="coverage/usacoep$traffic.coverage" NAME="traffic Coverage Results" MODIFIED="1561910428519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/traffic" />
@@ -92,166 +39,87 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crossroad/crossroad.py">
+        <entry file="file://$PROJECT_DIR$/square/square.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            <state relative-caret-position="72">
+              <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cmp.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/circlecross/circlecross.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cowqueue/cowqueue.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/notlast/notlast.py">
+        <entry file="file://$PROJECT_DIR$/blocks/blocks.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="86">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cowsignal/cowsignal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cowsignal/cowsignal.out">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cowroute2/cowroute2.out">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cowqueue/1.in">
+        <entry file="file://$PROJECT_DIR$/cowroute2/cowroute2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="2" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cowsignal/cowsignal.in">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blocks/blocks.out">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cowqueue/cowqueue.out">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/blocks/blocks.in">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/circlecross/1.in">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/circlecross/circlecross.out">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/circlecross/circlecross.in">
+        <entry file="file://$PROJECT_DIR$/square/square.out">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>add</find>
-      <find>(x)</find>
-      <find>answer</find>
-      <find>curr_time</find>
-      <find>move_steps</find>
-      <find>pails</find>
-      <find>41</find>
-      <find>ok</find>
-      <find>fine</find>
-      <find>r1</find>
-      <find>r2</find>
-      <find>r3</find>
-      <find>count1 += 1</find>
-      <find>ttt</find>
-      <find>used</find>
-      <find>tmp</find>
-      <find>N-x</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>append</replace>
-      <replace>(m)</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/cbarn/cbarn.py" />
-        <option value="$PROJECT_DIR$/cowroute/cowroute.in" />
-        <option value="$PROJECT_DIR$/cowroute/cowroute.py" />
-        <option value="$PROJECT_DIR$/cowroute2/cowroute2.in" />
-        <option value="$PROJECT_DIR$/cowroute2/cowroute2.py" />
-        <option value="$PROJECT_DIR$/censor/censor.in.py" />
-        <option value="$PROJECT_DIR$/censor/censor.in" />
-        <option value="$PROJECT_DIR$/censor/censor.out" />
-        <option value="$USER_HOME$/Downloads/censor_bronze 2/7.out" />
-        <option value="$PROJECT_DIR$/censor/censor.py" />
-        <option value="$PROJECT_DIR$/cow/cow.py" />
-        <option value="$PROJECT_DIR$/badmilk/badmilk.in" />
-        <option value="$PROJECT_DIR$/badmilk/badmilk.py" />
-        <option value="$PROJECT_DIR$/circlecross/circlecross.in" />
-        <option value="$PROJECT_DIR$/cowqueue/cowqueue.in" />
-        <option value="$PROJECT_DIR$/cowqueue/cowqueue.py" />
-        <option value="$PROJECT_DIR$/milkorder/milkorder.in" />
-        <option value="$PROJECT_DIR$/milkorder/milkorder.py" />
-        <option value="$PROJECT_DIR$/lifegaurds/lifegaurds.in" />
-        <option value="$PROJECT_DIR$/lifegaurds/lifeguards.in" />
-        <option value="$PROJECT_DIR$/lifegaurds/lifegaurds.py" />
-        <option value="$PROJECT_DIR$/angry/dogewogiew.py" />
-        <option value="$PROJECT_DIR$/buckets/buckets.in" />
-        <option value="$PROJECT_DIR$/buckets/buckets.py" />
-        <option value="$USER_HOME$/Downloads/factory_bronze_open19/4.in" />
-        <option value="$PROJECT_DIR$/factory/factory.in.py" />
-        <option value="$PROJECT_DIR$/factory/factory.in" />
-        <option value="$PROJECT_DIR$/factory/factory.py" />
-        <option value="$PROJECT_DIR$/evolution/evolution.in" />
-        <option value="$PROJECT_DIR$/evolution/evolution.py" />
-        <option value="$PROJECT_DIR$/revegetate/revegetate.in" />
-        <option value="$PROJECT_DIR$/revegetate/revegetate.py" />
-        <option value="$PROJECT_DIR$/tttt/tttt.out" />
-        <option value="$PROJECT_DIR$/tttt/tttt.in" />
-        <option value="$PROJECT_DIR$/tttt/tttt.py" />
-        <option value="$PROJECT_DIR$/tttt/tttt2.py" />
-        <option value="$PROJECT_DIR$/traffic/traffic.in" />
-        <option value="$PROJECT_DIR$/traffic/traffic.py" />
-        <option value="$PROJECT_DIR$/../usaco/photo_bronze/cmpbash" />
-        <option value="$PROJECT_DIR$/test/test.py" />
-        <option value="$PROJECT_DIR$/test/cmp.sh" />
-        <option value="$PROJECT_DIR$/hoofball/hoofball.in" />
-        <option value="$PROJECT_DIR$/hoofball/out.1" />
-        <option value="$PROJECT_DIR$/hoofball/1.out" />
-        <option value="$PROJECT_DIR$/traffic/cmp.sh" />
-        <option value="$PROJECT_DIR$/hoofball/cmp.sh" />
-        <option value="$PROJECT_DIR$/billboard2/billboard2.py" />
-        <option value="$PROJECT_DIR$/crossroad/crossroad.py" />
-        <option value="$PROJECT_DIR$/crossroad/crossroad.in" />
-        <option value="$PROJECT_DIR$/cmp.sh" />
-        <option value="$PROJECT_DIR$/circlecross/circlecross.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-3840" />
-    <option name="y" value="-32" />
-    <option name="width" value="3840" />
-    <option name="height" value="2160" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -270,30 +138,48 @@
             <path>
               <item name="usacoep" type="b2602c69:ProjectViewProjectNode" />
               <item name="usacoep" type="462c0819:PsiDirectoryNode" />
-              <item name="notlast" type="462c0819:PsiDirectoryNode" />
+              <item name="bcs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="usacoep" type="b2602c69:ProjectViewProjectNode" />
+              <item name="usacoep" type="462c0819:PsiDirectoryNode" />
+              <item name="blist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="usacoep" type="b2602c69:ProjectViewProjectNode" />
+              <item name="usacoep" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="usacoep" type="b2602c69:ProjectViewProjectNode" />
+              <item name="usacoep" type="462c0819:PsiDirectoryNode" />
+              <item name="buckets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="usacoep" type="b2602c69:ProjectViewProjectNode" />
+              <item name="usacoep" type="462c0819:PsiDirectoryNode" />
+              <item name="cowroute2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="usacoep" type="b2602c69:ProjectViewProjectNode" />
+              <item name="usacoep" type="462c0819:PsiDirectoryNode" />
+              <item name="cowsignal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="usacoep" type="b2602c69:ProjectViewProjectNode" />
+              <item name="usacoep" type="462c0819:PsiDirectoryNode" />
+              <item name="crossroad" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="usacoep" type="b2602c69:ProjectViewProjectNode" />
+              <item name="usacoep" type="462c0819:PsiDirectoryNode" />
+              <item name="speeding" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cowqueue" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/cowqueue" />
-      <recent name="$PROJECT_DIR$/circlecross" />
-      <recent name="$PROJECT_DIR$/crossroad" />
-      <recent name="$PROJECT_DIR$/billboard" />
-      <recent name="$PROJECT_DIR$/lifegaurds" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -306,85 +192,6 @@
         </RuleState>
       </list>
     </option>
-  </component>
-  <component name="RunManager" selected="Python.circlecross">
-    <configuration name="circlecross" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="usacoep" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/circlecross" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/circlecross/circlecross.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hoofball (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="usacoep" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/.pyenv/versions/3.6.5/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crossroad" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crossroad/crossroad.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hoofball" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="usacoep" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/.pyenv/versions/3.6.5/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hoofball" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Python.hoofball" />
-      <item itemvalue="Python.hoofball (1)" />
-      <item itemvalue="Python.circlecross" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.circlecross" />
-        <item itemvalue="Python.hoofball (1)" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -407,23 +214,30 @@
       <workItem from="1561770053431" duration="4219000" />
       <workItem from="1561912991405" duration="17000" />
       <workItem from="1561913017195" duration="9783000" />
+      <workItem from="1561958133154" duration="423000" />
+      <workItem from="1562075701716" duration="2762000" />
+      <workItem from="1562245492288" duration="187000" />
+      <workItem from="1562246559545" duration="578000" />
+      <workItem from="1562275397922" duration="926000" />
+      <workItem from="1562446034263" duration="375000" />
+      <workItem from="1562450266464" duration="438000" />
+      <workItem from="1562457789281" duration="11695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="204494000" />
+    <option name="totallyTimeSpent" value="13000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3840" y="-32" width="3840" height="2160" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49929875" visible="true" weight="0.16008425" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49929875" visible="true" weight="0.23963515" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50070125" side_tool="true" weight="0.15848753" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49921876" weight="0.25789472" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5356394" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49921876" weight="0.49554896" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.53481334" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -431,7 +245,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32914045" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50078124" side_tool="true" weight="0.30520394" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3923445" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.46735904" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -440,271 +254,204 @@
       <window_info anchor="right" id="Database" order="4" weight="0.3291874" />
       <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49929875" visible="true" weight="0.16009654" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" sideWeight="0.50070125" side_tool="true" weight="0.15848753" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49921876" weight="0.17714885" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5356394" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32914045" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50078124" side_tool="true" weight="0.30520394" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.384696" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" weight="0.3291874" />
-      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
-    </layout-to-restore>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/revegetate/revegetate.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/revegetate/revegetate.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/revegetate/revegetate.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/usacoep$hoofball__1_.coverage" NAME="hoofball (1) Coverage Results" MODIFIED="1561954298487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crossroad" />
-    <SUITE FILE_PATH="coverage/usacoep$traffic.coverage" NAME="hoofball Coverage Results" MODIFIED="1561915082393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/usacoep$circlecross.coverage" NAME="circlecross Coverage Results" MODIFIED="1561956027632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/circlecross" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../usaco/gift1/gift1.in" />
-    <entry file="file://$PROJECT_DIR$/../usaco/gift1/gift1.py" />
-    <entry file="file://$PROJECT_DIR$/../usaco/photo_bronze/photobronze.py" />
-    <entry file="file://$PROJECT_DIR$/../usaco/beads/beads.py" />
-    <entry file="file://$PROJECT_DIR$/../usaco/photo_bronze/cmpbash" />
-    <entry file="file://$PROJECT_DIR$/test/cmpbash" />
-    <entry file="file://$PROJECT_DIR$/traffic/file">
+    <entry file="file://$USER_HOME$/Downloads/bcs_bronze_open16 (1)/1.in">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/traffic/tmp.in">
+    <entry file="file://$USER_HOME$/Downloads/bcs_bronze_open16 (1)/1.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/cmp.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/traffic/traffic.out">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/traffic/10.out">
+    <entry file="file://$USER_HOME$/Downloads/bcs_bronze_open16 (1)/2.in">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/test.in">
+    <entry file="file://$USER_HOME$/Downloads/bcs_bronze_open16 (1)/2.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/test.out">
+    <entry file="file://$USER_HOME$/Downloads/bcs_bronze_open16 (1)/3.in">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/test.py">
+    <entry file="file://$USER_HOME$/Downloads/bcs_bronze_open16 (1)/3.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/traffic/traffic.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/teleport/10.out">
+    <entry file="file://$USER_HOME$/Downloads/bcs_bronze_open16 (1)/4.in">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/hoofball/hoofball.out">
+    <entry file="file://$USER_HOME$/Downloads/bcs_bronze_open16 (1)/4.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/hoofball/hoofball.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hoofball/out.1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hoofball/1.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hoofball/1.out">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/traffic/cmp.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="26" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hoofball/cmp.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hoofball/hoofball.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/teleport/teleport.py">
+    <entry file="file://$USER_HOME$/Downloads/bcs_bronze_open16 (1)/5.in">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/taming/1.in">
+    <entry file="file://$USER_HOME$/Downloads/bcs_bronze_open16 (1)/5.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/taming/out.3">
+    <entry file="file://$USER_HOME$/Downloads/bcs_bronze_open16 (1)/6.in">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/taming/taming.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/billboard2/1.in">
+    <entry file="file://$USER_HOME$/Downloads/bcs_bronze_open16 (1)/6.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/billboard2/billboard2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lifeguards/1.in">
+    <entry file="file://$USER_HOME$/Downloads/bcs_bronze_open16 (1)/7.in">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lifeguards/lifeguards.py">
+    <entry file="file://$USER_HOME$/Downloads/bcs_bronze_open16 (1)/7.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/billboard/1.in">
+    <entry file="file://$USER_HOME$/Downloads/bcs_bronze_open16 (1)/8.in">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/billboard/billboard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-171" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shuffle/shuffle.py">
+    <entry file="file://$USER_HOME$/Downloads/bcs_bronze_open16 (1)/8.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/measurement/measurement.py">
+    <entry file="file://$USER_HOME$/Downloads/bcs_bronze_open16 (1)/9.in">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/crossroad/1.out">
+    <entry file="file://$USER_HOME$/Downloads/bcs_bronze_open16 (1)/9.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/crossroad/2.in">
+    <entry file="file://$USER_HOME$/Downloads/bcs_bronze_open16 (1)/10.in">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/crossroad/1.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="2" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crossroad/crossroad.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crossroad/crossroad.out">
+    <entry file="file://$USER_HOME$/Downloads/bcs_bronze_open16 (1)/10.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/crossroad/crossroad.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmp.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circlecross/circlecross.out">
+    <entry file="file://$PROJECT_DIR$/bcs/1.in">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/circlecross/circlecross.in">
+    <entry file="file://$PROJECT_DIR$/bcs/2.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/circlecross/1.in">
+    <entry file="file://$PROJECT_DIR$/bcs/3.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/circlecross/circlecross.py">
+    <entry file="file://$PROJECT_DIR$/bcs/4.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bcs/5.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bcs/6.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bcs/7.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bcs/8.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bcs/9.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bcs/10.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bcs/1.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bcs/bcs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <caret line="20" column="68" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cowqueue/1.in">
+    <entry file="file://$PROJECT_DIR$/bcs/bcs.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bcs/out.1">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/cowqueue/cowqueue.out">
+    <entry file="file://$PROJECT_DIR$/bcs/out.2">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/cowqueue/cowqueue.py">
+    <entry file="file://$PROJECT_DIR$/bcs/out.3">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/notlast/notlast.py">
+    <entry file="file://$PROJECT_DIR$/bcs/out.4">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/square/square.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/speeding/speeding.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/square/square.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/square/square.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/blocks.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blist/blist.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blist/blist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/blocks.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cowroute2/cowroute2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cowsignal/cowsignal.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cowroute2/cowroute2.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cowsignal/cowsignal.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cowsignal/cowsignal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/blocks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
