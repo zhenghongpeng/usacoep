@@ -2,71 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64f6638c-3f36-40fc-bf19-9938716b9a28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/angry/1.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angry/1.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angry/10.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angry/10.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angry/2.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angry/2.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angry/3.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angry/3.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angry/4.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angry/4.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angry/5.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angry/5.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angry/6.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angry/6.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angry/7.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angry/7.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angry/8.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angry/8.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angry/9.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angry/9.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mowing/1.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mowing/1.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mowing/10.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mowing/10.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mowing/2.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mowing/2.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mowing/3.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mowing/3.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mowing/4.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mowing/4.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mowing/5.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mowing/5.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mowing/6.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mowing/6.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mowing/7.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mowing/7.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mowing/8.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mowing/8.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mowing/9.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mowing/9.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promote/1.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promote/1.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promote/10.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promote/10.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promote/2.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promote/2.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promote/3.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promote/3.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promote/4.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promote/4.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promote/5.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promote/5.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promote/6.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promote/6.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promote/7.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promote/7.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promote/8.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promote/8.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promote/9.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promote/9.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circlecross/1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circlecross/1.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circlecross/10.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circlecross/10.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circlecross/2.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circlecross/2.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circlecross/3.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circlecross/3.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circlecross/4.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circlecross/4.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circlecross/5.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circlecross/5.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circlecross/6.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circlecross/6.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circlecross/7.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circlecross/7.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circlecross/8.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circlecross/8.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circlecross/9.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circlecross/9.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cowqueue/1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cowqueue/1.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cowqueue/10.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cowqueue/10.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cowqueue/2.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cowqueue/2.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cowqueue/3.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cowqueue/3.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cowqueue/4.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cowqueue/4.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cowqueue/5.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cowqueue/5.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cowqueue/6.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cowqueue/6.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cowqueue/7.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cowqueue/7.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cowqueue/8.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cowqueue/8.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cowqueue/9.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cowqueue/9.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/usacoep.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/usacoep.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/circlecross/circlecross.out" beforeDir="false" afterPath="$PROJECT_DIR$/circlecross/circlecross.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/billboard/billboard.out" beforeDir="false" afterPath="$PROJECT_DIR$/billboard/billboard.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/billboard2/billboard2.out" beforeDir="false" afterPath="$PROJECT_DIR$/billboard2/billboard2.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/billboard2/billboard2.py" beforeDir="false" afterPath="$PROJECT_DIR$/billboard2/billboard2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/circlecross/circlecross.py" beforeDir="false" afterPath="$PROJECT_DIR$/circlecross/circlecross.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mowing/mowing.out" beforeDir="false" afterPath="$PROJECT_DIR$/mowing/mowing.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/promote/promote.out" beforeDir="false" afterPath="$PROJECT_DIR$/promote/promote.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cowqueue/cowqueue.out" beforeDir="false" afterPath="$PROJECT_DIR$/cowqueue/cowqueue.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoofball/hoofball.in" beforeDir="false" afterPath="$PROJECT_DIR$/hoofball/hoofball.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoofball/hoofball.out" beforeDir="false" afterPath="$PROJECT_DIR$/hoofball/hoofball.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lifeguards/lifeguards.out" beforeDir="false" afterPath="$PROJECT_DIR$/lifeguards/lifeguards.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taming/taming.out" beforeDir="false" afterPath="$PROJECT_DIR$/taming/taming.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teleport/teleport.out" beforeDir="false" afterPath="$PROJECT_DIR$/teleport/teleport.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/traffic/cmp.sh" beforeDir="false" afterPath="$PROJECT_DIR$/traffic/cmp.sh" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -103,56 +92,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mowing/mowing.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angry/angry.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/promote/promote.py">
+        <entry file="file://$PROJECT_DIR$/crossroad/crossroad.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="48">
+              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/promote/promote.out">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/cmp.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/promote/1.in">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/circlecross/circlecross.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pails/pails.py">
+        <entry file="file://$PROJECT_DIR$/cowqueue/cowqueue.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pails/1.in">
+        <entry file="file://$PROJECT_DIR$/notlast/notlast.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angry/1.in">
+        <entry file="file://$PROJECT_DIR$/cowqueue/1.in">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angry/dogewogiew.py">
+        <entry file="file://$PROJECT_DIR$/cowqueue/cowqueue.out">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mowing/mowing.in">
+        <entry file="file://$PROJECT_DIR$/circlecross/1.in">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/circlecross/circlecross.out">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/circlecross/circlecross.in">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -273,17 +270,7 @@
             <path>
               <item name="usacoep" type="b2602c69:ProjectViewProjectNode" />
               <item name="usacoep" type="462c0819:PsiDirectoryNode" />
-              <item name="angry" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="usacoep" type="b2602c69:ProjectViewProjectNode" />
-              <item name="usacoep" type="462c0819:PsiDirectoryNode" />
               <item name="notlast" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="usacoep" type="b2602c69:ProjectViewProjectNode" />
-              <item name="usacoep" type="462c0819:PsiDirectoryNode" />
-              <item name="pails" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -294,18 +281,18 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pails" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cowqueue" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/pails" />
-      <recent name="$PROJECT_DIR$/promote" />
-      <recent name="$PROJECT_DIR$/angry" />
-      <recent name="$PROJECT_DIR$/mowing" />
       <recent name="$PROJECT_DIR$/cowqueue" />
+      <recent name="$PROJECT_DIR$/circlecross" />
+      <recent name="$PROJECT_DIR$/crossroad" />
+      <recent name="$PROJECT_DIR$/billboard" />
+      <recent name="$PROJECT_DIR$/lifegaurds" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -320,7 +307,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.promote">
+  <component name="RunManager" selected="Python.circlecross">
     <configuration name="circlecross" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="usacoep" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -387,37 +374,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="promote" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="usacoep" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/promote" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/promote/promote.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.hoofball" />
       <item itemvalue="Python.hoofball (1)" />
       <item itemvalue="Python.circlecross" />
-      <item itemvalue="Python.promote" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.promote" />
         <item itemvalue="Python.circlecross" />
         <item itemvalue="Python.hoofball (1)" />
       </list>
@@ -443,12 +406,12 @@
       <workItem from="1561698479353" duration="88000" />
       <workItem from="1561770053431" duration="4219000" />
       <workItem from="1561912991405" duration="17000" />
-      <workItem from="1561913017195" duration="13343000" />
+      <workItem from="1561913017195" duration="9783000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="208054000" />
+    <option name="totallyTimeSpent" value="204494000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3840" y="-32" width="3840" height="2160" extended-state="0" />
@@ -527,12 +490,43 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/usacoep$promote.coverage" NAME="promote Coverage Results" MODIFIED="1562035197434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/promote" />
     <SUITE FILE_PATH="coverage/usacoep$hoofball__1_.coverage" NAME="hoofball (1) Coverage Results" MODIFIED="1561954298487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crossroad" />
     <SUITE FILE_PATH="coverage/usacoep$traffic.coverage" NAME="hoofball Coverage Results" MODIFIED="1561915082393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/usacoep$circlecross.coverage" NAME="circlecross Coverage Results" MODIFIED="1561958419166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/circlecross" />
+    <SUITE FILE_PATH="coverage/usacoep$circlecross.coverage" NAME="circlecross Coverage Results" MODIFIED="1561956027632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/circlecross" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../usaco/gift1/gift1.in" />
+    <entry file="file://$PROJECT_DIR$/../usaco/gift1/gift1.py" />
+    <entry file="file://$PROJECT_DIR$/../usaco/photo_bronze/photobronze.py" />
+    <entry file="file://$PROJECT_DIR$/../usaco/beads/beads.py" />
+    <entry file="file://$PROJECT_DIR$/../usaco/photo_bronze/cmpbash" />
+    <entry file="file://$PROJECT_DIR$/test/cmpbash" />
+    <entry file="file://$PROJECT_DIR$/traffic/file">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/traffic/tmp.in">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/cmp.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/traffic/traffic.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/traffic/10.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test.in">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/test.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -677,6 +671,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cmp.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/circlecross/circlecross.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -685,6 +686,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/circlecross/1.in">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/circlecross/circlecross.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cowqueue/1.in">
       <provider selected="true" editor-type-id="text-editor" />
@@ -696,64 +704,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/notlast/notlast.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmp.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circlecross/circlecross.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mowing/mowing2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mowing/1.in">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mowing/mowing.in">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mowing/mowing.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angry/1.in">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angry/dogewogiew.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angry/angry.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/promote/promote.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/promote/promote.out">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/promote/1.in">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pails/pails.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pails/1.in">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>

@@ -2,22 +2,18 @@ import string
 fin = open('circlecross.in', 'r')
 fout = open('circlecross.out', 'w')
 circ = fin.readline().strip()
-# print(circ)
 a = ord('A')
 d = dict.fromkeys(string.ascii_uppercase, [])
 alph = [chr(i) for i in range(a,a+26)]
-# print(a, d, alph)
 for x in alph:
     temp = []
     for y in range(52):
         if circ[y] == x:
             temp.append(y)
-    # print(temp)
     temp2 = []
     for z in range(temp[0]+1, temp[1]):
         temp2.append(circ[z])
         d[x] = temp2
-# print(d)
 count = 0
 for key in d:
     for key2 in d:
