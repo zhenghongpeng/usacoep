@@ -14,6 +14,10 @@ for x in alph:
     for z in range(temp[0]+1, temp[1]):
         temp2.append(circ[z])
         d[x] = temp2
+<<<<<<< HEAD
+=======
+print(d)
+>>>>>>> 60e9519019d6ad69cff9b27372ebcb0397b32945
 count = 0
 for key in d:
     for key2 in d:
