@@ -2,19 +2,18 @@ fin = open('bcs.in', 'r')
 fout = open('bcs.out', 'w')
 N, M = map(int, fin.readline().split())
 piece = [[] for _ in range(M+1)]
-print(piece)
+
 for y in range(M+1):
     for x in range(N):
         tmp = [c == "#" for c in list(fin.readline().strip())]
         piece[y].append(tmp)
-print(piece[1], piece[2])
 
 
 def addpiece(p1, p2):
     p = [[False for _ in range(N)] for _ in range(N)]
     for i in range(N):
         for j in range(N):
-            p[i][j] = (p1[i][j] or p2[i][j])
+            p[i][j] = (p[i][j] or p2[i][j])
     return p
 
 
@@ -29,7 +28,7 @@ def checkpiece(p1, p2):
 pos = {}
 
 for y in range(1, M+1):
-    pos[y]=[]
+    pow[y]=[]
     be=-1
     end=N
     for r, row in enumerate(piece[y]):
@@ -81,7 +80,7 @@ for y in pos:
             tmp = [[False for j in range(N)] for i in range(N)]
             for i in range(0, len(b1) - N + 1):
                 for j in range(0, len(b1[0]) - N + 1):
-                    tmp=[[b1[k+i][j+m] for m in range(N)] for k in range(N)]
+                    tmp=[[b1[k+1][j+m] for m in range(N)] for k in range(N)]
                     can_b.append(tmp)
             for a in can_a:
                 for b in can_b:
