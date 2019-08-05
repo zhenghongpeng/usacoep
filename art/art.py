@@ -3,10 +3,12 @@ fout = open('art.out', 'w')
 N = int(fin.readline().strip())
 B = []
 for i in range(N):
-    B.append(list(fin.readline().strip()))
-for i in range(N):
-    for j in range(N):
-        B[i][j]=int(B[i][j])
+    B.append(list(map(int, list(fin.readline().strip()))))
+# for i in range(N):
+#     for j in range(N):
+#         B[i][j]=int(B[i][j])
+
+print(B)
 
 
 def colorappears(c):

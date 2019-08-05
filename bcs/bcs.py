@@ -41,14 +41,14 @@ for y in range(1, M+1):
 print(piece[1], piece[2])
 
 
-    for r, row in enumerate(piece[y]):
-        if any(row) == True and r < N:
-            be = r
-            break
-    for r, row in enumerate(reversed(piece[y])):
-        if any(row) == True and r < N:
-            end = N-r
-            break
+for r, row in enumerate(piece[y]):
+    if any(row) == True and r < N:
+        be = r
+        break
+for r, row in enumerate(reversed(piece[y])):
+    if any(row) == True and r < N:
+        end = N-r
+        break
 def addpiece(p1, p2):
     p = [[False for _ in range(N)] for _ in range(N)]
     for i in range(N):
